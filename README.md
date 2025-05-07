@@ -1,4 +1,3 @@
-```markdown
 # Frontend (React)
 
 1.  **Navigate to the frontend directory:**
