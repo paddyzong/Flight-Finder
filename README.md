@@ -1,5 +1,5 @@
 ```markdown
-### Frontend (React)
+# Frontend (React)
 
 1.  **Navigate to the frontend directory:**
 
@@ -17,7 +17,7 @@
     npm run dev
     ```
 
-### Backend (Java)
+# Backend (Java)
 
 1.  **Navigate to the backend directory:**
 
